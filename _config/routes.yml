@@ -1,0 +1,4 @@
+Director:
+  rules:
+    '': 'RootURLController'
+    'news//$Locale/$Action/$URLSegmentNews': 'News_Controller'
